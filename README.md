@@ -9,7 +9,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-salgado/)
  -->
 
-### Infographs
 <div align="center">
   <!-- Stats --> 
   <img src="https://github-readme-stats.vercel.app/api?username=mstevz&show_icons=true&layout=compact&custom_title=Stats&theme=dracula&count_private=true&include_all_commits=true&hide=prs&title_color=96CBF4&icon_color=66DF87" />
